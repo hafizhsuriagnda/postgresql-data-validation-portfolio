@@ -58,7 +58,30 @@ The database demonstrates strong data integrity, accurate relational mapping, an
 ## Repository Structure
 
 postgresql-data-validation-portfolio
-├── Evidence
-├── SQL-Scripts
-├── Test-Documentation
+postgresql-data-validation-portfolio/
+│
+├── Evidence/
+│   ├── TC_DB_01_DataIntegrity_Pass.png
+│   ├── TC_DB_02_DataIntegrity_Pass.png
+│   ├── TC_DB_03_DataIntegrity_Pass.png
+│   ├── TC_DB_04_DataIntegrity_Pass.png
+│   ├── TC_DB_05_DateValidation_Pass.png
+│   ├── TC_DB_06_JoinIntegrity_Pass.png
+│   ├── TC_DB_07_JoinIntegrity_Pass.png
+│   ├── TC_DB_08_JoinIntegrity_Pass.png
+│   ├── TC_DB_09_JoinIntegrity_Pass.png
+│   ├── TC_DB_10_ViewCompleteness_Pass.png
+│   ├── TC_DB_11_RootCause_NoActor.png
+│   ├── TC_DB_11_ViewCompleteness_FailCheck.png
+│   ├── TC_DB_12_AggregationValidation_SourceTables.png
+│   ├── TC_DB_12_AggregationValidation_TableView.png
+│   ├── TC_DB_13_AggregationValidation_Comparison.png
+│   ├── TC_DB_13_AggregationValidation_SourceTables.png
+│   ├── TC_DB_14_01_FilterValidation_Pass.png
+│   └── TC_DB_14_02_FilterValidationMultiTable_Pass.png
+├── SQL-Scripts/
+│   └── pagila_database_portfolio.sql
+├── Test-Documentation/
+│   └── PostgreSQL_Data_Validation.xlsx
+│
 └── README.md
