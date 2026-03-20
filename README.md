@@ -1,10 +1,10 @@
 # PostgreSQL Data Validation Portfolio
 
-This repository contains a QA data validation project performed on the Pagila (DVD Rental Store) database using PostgreSQL.
+This repository showcases a QA data validation project performed on the Pagila (DVD Rental Store) database using PostgreSQL.
 
 ## Project Overview
 
-The objective of this project is to validate data integrity, relational consistency, and aggregation accuracy using SQL queries.
+The objective of this project is to validate data integrity, relational consistency, and aggregation accuracy using SQL queries, ensuring reliable and consistent data across the database.
 
 ## Database Information
 
