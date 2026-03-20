@@ -57,10 +57,10 @@ The database demonstrates strong data integrity, accurate relational mapping, an
 
 ## Repository Structure
 
+```
 postgresql-data-validation-portfolio
-postgresql-data-validation-portfolio/
 │
-├── Evidence/
+├── Evidence
 │   ├── TC_DB_01_DataIntegrity_Pass.png
 │   ├── TC_DB_02_DataIntegrity_Pass.png
 │   ├── TC_DB_03_DataIntegrity_Pass.png
@@ -79,9 +79,10 @@ postgresql-data-validation-portfolio/
 │   ├── TC_DB_13_AggregationValidation_SourceTables.png
 │   ├── TC_DB_14_01_FilterValidation_Pass.png
 │   └── TC_DB_14_02_FilterValidationMultiTable_Pass.png
-├── SQL-Scripts/
+├── SQL-Scripts
 │   └── pagila_database_portfolio.sql
-├── Test-Documentation/
+├── Test-Documentation
 │   └── PostgreSQL_Data_Validation.xlsx
 │
 └── README.md
+```
